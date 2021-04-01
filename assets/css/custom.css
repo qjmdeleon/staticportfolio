@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+body p {
+    font-family: 'Cabin', sans-serif;
+}
+
+footer a {
+    font-family: 'Cabin', sans-serif;
+}
+
+
+
+.vlt-btn--primary {
+    background-color: #00b8a9;
+
+}
+
+.vlt-btn--secondary {
+    background-color: #00b8a9;
+}
+
+.vlt-btn--secondary span,
+.vlt-btn--primary span {
+    background-color: #323232;
+}
+
+.lezwork {
+    background-color: #00b8a9;
+}
+
+.has-primary-color {
+    color: #00b8a9;
+}
+
+.has-primary-background-color {
+    background-color: #00b8a9;
+}
+
+.vlt-simple-link:hover {
+    color: #00b8a9;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #00b8a9;
+}
+
+a:hover {
+    color: #00b8a9;
+}
+
+.vlt-nav--fullscreen__navigation ul.sf-menu li.current-menu-item>a,
+.vlt-nav--fullscreen__navigation ul.sf-menu li:hover>a {
+    color: #00b8a9;
+}
+
+.vlt-footer--style-1 {
+
+    background: #101010;
+
+}
